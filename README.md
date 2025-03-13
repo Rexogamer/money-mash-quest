@@ -1,3 +1,3 @@
-# money-mash-quest
+# money-mash-quest: feet edition
 
-A game about inflation (as in money)
+A game about inflation (not the monetary kind)
